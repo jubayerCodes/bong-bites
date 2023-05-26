@@ -1,0 +1,177 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --btn-bg-color: #C6A87D;
+  --main-bg-color: #101418;
+  --banner-height: 970px
+}
+
+* {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.my-container {
+  @apply xl:w-[1200px] mx-auto
+}
+
+.btn {
+  @apply bg-[var(--btn-bg-color)] hover:bg-[#c6a77dda] duration-300
+}
+
+.header-btn {
+  @apply rounded-none py-4 px-10 text-sm border-[var(--btn-bg-color)] hover:border-[#c6a77dda]
+}
+
+.menu-item {
+  @apply text-lg hover:text-[var(--btn-bg-color)] duration-300 hover:bg-transparent
+}
+
+.active-link{
+  @apply hover:text-[var(--btn-bg-color)] text-[var(--btn-bg-color)] bg-transparent
+}
+
+h6 {
+  font-family: 'Miniver', cursive;
+}
+
+.header {
+  border-bottom: 1px solid #c6a77d60;
+  @apply -mb-[97px] px-5 xl:px-0 xl:-mb-[90px] relative z-50 bg-transparent
+}
+
+.mini-title {
+  @apply uppercase text-[var(--btn-bg-color)] mb-4 xl:mb-6
+}
+
+.banner-title {
+  @apply text-white capitalize text-[34px] xl:text-[64px] font-semibold mb-10;
+  line-height: 1.2em;
+}
+
+.section-desc {
+  @apply text-[#ffffffcc] mb-10
+}
+
+.banner-btn {
+  @apply rounded-none py-4 px-8 text-sm bg-transparent hover:bg-[var(--btn-bg-color)] border-white hover:border-[var(--btn-bg-color)]
+}
+
+.section-title {
+  @apply text-3xl xl:text-5xl text-white;
+  line-height: 1.5em;
+}
+
+.banner {
+  @apply pt-52 pb-40 xl:pt-64 xl:pb-52 px-5;
+  background-position: center left;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* Home Banner */
+
+.home-banner {
+  @apply text-center
+}
+
+.home-banner-container {
+  @apply w-full h-[800px] xl:h-[var(--banner-height)] flex justify-center items-center py-[250px] px-5 xl:px-0;
+  background-image: url('./assets/images/hero-bg.jpg');
+  background-position: center center;
+  background-size: cover;
+}
+
+.banner-content {
+  z-index: 2;
+}
+
+.home-banner::after {
+  position: absolute;
+  content: '';
+  background: #000;
+  opacity: .7;
+  width: 100%;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  @apply h-[795px] xl:h-[var(--banner-height)]
+}
+
+.banner-content {
+  @apply xl:w-[800px]
+}
+
+
+/* Chefs section */
+
+.chefs-container {
+  @apply py-28
+}
+
+.chefs-cards {
+  @apply xl:pt-20 grid grid-cols-1 xl:grid-cols-3 gap-8 mx-auto
+}
+
+/* Error page */
+
+.error-section {
+  @apply w-full xl:h-[var(--banner-height)] flex justify-center items-center py-[250px] text-center;
+  background-image: url('./assets/images/rest404.jpg');
+  background-position: center center;
+  background-size: cover;
+}
+
+.error-container {
+  z-index: 2;
+}
+
+.error-section::after {
+  position: absolute;
+  content: '';
+  background: #000;
+  opacity: .7;
+  width: 100%;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  @apply xl:h-[var(--banner-height)] h-full
+}
+
+/* Login */
+
+.login-section, .register-section{
+  @apply w-full h-[1000px] xl:h-[var(--banner-height)] flex justify-center items-center py-[250px] text-center bg-[var(--main-bg-color)] px-5 xl:px-0;
+  background-image: url('./assets/images/restaurant404.jpg');
+  background-position: center center;
+  background-size: cover;
+}
+
+.login-container, .register-container{
+  @apply z-[10]
+}
+
+.input-field{
+  @apply w-full p-3 bg-transparent outline-none border focus:border-[var(--btn-bg-color)] focus:outline-none duration-200
+}
+
+.input-field::placeholder{
+  @apply text-white
+}
+
+.login-section::after, .register-section::after {
+  position: absolute;
+  content: '';
+  background: #000;
+  opacity: .7;
+  width: 100%;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  @apply xl:h-[var(--banner-height)] h-[1000px]
+}
+
+.register-btn, .login-btn{
+  @apply rounded-none border border border-white bg-transparent hover:bg-[var(--btn-bg-color)] py-4 px-5 text-sm;
+}

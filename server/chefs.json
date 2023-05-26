@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "picture_url": "https://images.unsplash.com/photo-1574966740637-12c84035a4f2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "name": "Shawkat Osman",
+        "bio": "Chef Shawkat has been cooking Bangladeshi cuisine for over 20 years, specializing in dishes from the Dhaka region. He is passionate about using traditional cooking techniques and locally-sourced ingredients to create authentic flavors.",
+        "likes": 500,
+        "num_recipes": 100,
+        "years_experience": 20,
+        "recipes": [1, 5, 7],
+        "rating": 4
+    },
+    {
+        "id": 2,
+        "picture_url": "https://plus.unsplash.com/premium_photo-1661778091956-15dbe6e47442?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "name": "Nasreen Ahmed",
+        "bio": "Chef Nasreen is an expert in Bangladeshi vegetarian cuisine, having trained under some of the top chefs in Dhaka. She loves experimenting with new ingredients and flavors to create unique and healthy dishes.",
+        "likes": 300,
+        "num_recipes": 50,
+        "years_experience": 15,
+        "recipes": [5, 1, 8, 4],
+        "rating": 4.5
+    },
+    {
+        "id": 3,
+        "picture_url": "https://images.unsplash.com/photo-1607631568010-a87245c0daf8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "name": "Kabir Ahmed",
+        "bio": "Chef Kabir is a master of Bangladeshi seafood dishes, having worked in some of the top seafood restaurants in Chittagong. He is known for his flavorful curries and perfectly cooked fish.",
+        "likes": 400,
+        "num_recipes": 75,
+        "years_experience": 18,
+        "recipes": [6, 2, 7],
+        "rating": 5
+    },
+    {
+        "id": 4,
+        "picture_url": "https://images.unsplash.com/photo-1566554273541-37a9ca77b91f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "name": "Rahima Begum",
+        "bio": "Chef Rahima is an expert in Bangladeshi street food, having grown up in the bustling markets of Old Dhaka. She is known for her delicious kebabs and samosas.",
+        "likes": 200,
+        "num_recipes": 40,
+        "years_experience": 10,
+        "recipes": [9, 8, 10, 5, 6],
+        "rating": 3.5
+    },
+    {
+        "id": 5,
+        "picture_url": "https://images.unsplash.com/photo-1581299894007-aaa50297cf16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "name": "Abdul Karim",
+        "bio": "Chef Abdul is a master of Bangladeshi rice dishes, having trained in the kitchens of some of the top hotels in Dhaka. He is known for his perfectly cooked biryanis and pulao.",
+        "likes": 250,
+        "num_recipes": 60,
+        "years_experience": 12,
+        "recipes": [7, 5, 3, 1, 8, 10],
+        "rating": 5
+    },
+    {
+        "id": 6,
+        "picture_url": "https://plus.unsplash.com/premium_photo-1664475872802-c8b87eec84b8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "name": "Farida Begum",
+        "bio": "Chef Farida is an expert in Bangladeshi desserts, having learned traditional recipes from her grandmother. She is known for her delicious ras malai and mishti doi.",
+        "likes": 150,
+        "num_recipes": 30,
+        "years_experience": 8,
+        "recipes": [2, 10, 9, 5],
+        "rating": 4
+    }
+]

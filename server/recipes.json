@@ -1,0 +1,169 @@
+[
+    {
+        "id": "1",
+        "name": "Aloo Posto",
+        "img_url": "https://i.zoomtventertainment.com/media/iStock-467880619.jpg",
+        "ingredients": [
+            "4 medium potatoes, peeled and cubed",
+            "1/2 cup poppy seeds",
+            "2-3 green chilies, slit lengthwise",
+            "1 teaspoon turmeric powder",
+            "1 teaspoon red chili powder",
+            "1 teaspoon cumin seeds",
+            "1 teaspoon mustard oil",
+            "Salt to taste"
+        ],
+        "method": "1. Dry roast the poppy seeds until light golden in color. Grind to a paste and keep aside. 2. Heat the mustard oil in a pan. Add the cumin seeds and green chilies. 3. Add the potatoes, turmeric powder, red chili powder, and salt. Mix well. 4. Add the poppy seed paste and mix well. 5. Cover and cook on low heat until the potatoes are tender. 6. Serve hot with rice.",
+        "rating": 4.5
+    },
+    {
+        "id": "2",
+        "name": "Cholar Dal",
+        "img_url": "https://cdn3.foodviva.com/static-content/food-images/daal-kadhi-recipes/cholar-dal/cholar-dal.jpg",
+        "ingredients": [
+            "1 cup chana dal",
+            "1 bay leaf",
+            "1 cinnamon stick",
+            "2-3 cardamom pods",
+            "2-3 cloves",
+            "1 teaspoon cumin seeds",
+            "1 teaspoon grated ginger",
+            "1 teaspoon turmeric powder",
+            "1 teaspoon red chili powder",
+            "2 tablespoons ghee",
+            "Salt to taste"
+        ],
+        "method": "1. Wash the chana dal and soak in water for 30 minutes. 2. Heat the ghee in a pressure cooker. Add the bay leaf, cinnamon stick, cardamom pods, cloves, and cumin seeds. 3. Add the grated ginger and fry for a minute. 4. Add the chana dal, turmeric powder, red chili powder, and salt. Mix well. 5. Add 3 cups of water and pressure cook for 3-4 whistles. 6. Serve hot with rice or chapati.",
+        "rating": 5
+    },
+    {
+        "id": "3",
+        "name": "Bhapa Ilish",
+        "img_url": "https://st4.depositphotos.com/37185906/40797/i/600/depositphotos_407972124-stock-photo-famous-bengali-dish-hilsa-ilish.jpg",
+        "ingredients": [
+            "4-5 pieces of ilish (hilsa) fish",
+            "2 tablespoons mustard oil",
+            "1 tablespoon mustard paste",
+            "2 green chilies, slit lengthwise",
+            "1/2 teaspoon turmeric powder",
+            "1 teaspoon salt"
+        ],
+        "method": "1. Clean the fish pieces and pat dry. 2. In a mixing bowl, mix together the mustard oil, mustard paste, green chilies, turmeric powder, and salt. 3. Add the fish pieces to the mixture and coat them well. 4. Place the fish pieces in a steaming dish and cover with a lid. 5. Steam for 10-12 minutes on medium heat. 6. Serve hot with rice.",
+        "rating": 3.5
+    },
+    {
+        "id": "4",
+        "name": "Shukto",
+        "img_url": "https://content.instructables.com/FN2/FV18/IDK2K3RL/FN2FV18IDK2K3RL.jpg?auto=webp&frame=1&fit=bounds&md=44b8c3135b902292f716fe8856542c50",
+        "ingredients": [
+            "1 potato, peeled and cubed",
+            "1 sweet potato, peeled and cubed",
+            "1 small eggplant, cubed",
+            "1 bitter gourd, seeded and sliced",
+            "1 plantain, peeled and cubed",
+            "1 teaspoon mustard seeds",
+            "1 teaspoon cumin seeds",
+            "1 teaspoon fenugreek seeds",
+            "2-3 dry red chilies",
+            "1 teaspoon turmeric powder",
+            "1 teaspoon sugar",
+            "1/2 cup milk",
+            "2 tablespoons mustard oil",
+            "Salt to taste"
+        ],
+        "method": "1. Heat the mustard oil in a pan. Add the mustard seeds, cumin seeds, fenugreek seeds, and dry red chilies. 2. Add the cubed vegetables, turmeric powder, sugar, and salt. Mix well. 3. Add enough water to cover the vegetables and bring to a boil. 4. Reduce the heat and simmer until the vegetables are cooked. 5. Add the milk and mix well. 6. Simmer for a few more minutes until the gravy thickens. 7. Serve hot with rice.",
+        "rating": 4
+    },
+    {
+        "id": "5",
+        "name": "Macher Jhol",
+        "img_url": "https://t3.ftcdn.net/jpg/04/18/22/46/360_F_418224613_7xsV7ogButkCA4kAOZTgi17rsLSgIvDF.jpg",
+        "ingredients": [
+            "4-5 pieces of Rohu fish",
+            "1 onion, sliced",
+            "1 tomato, chopped",
+            "2-3 green chilies, slit lengthwise",
+            "1 teaspoon turmeric powder",
+            "1 teaspoon red chili powder",
+            "1 teaspoon cumin powder",
+            "1 teaspoon coriander powder",
+            "1/2 teaspoon garam masala powder",
+            "2 tablespoons mustard oil",
+            "Salt to taste"
+        ],
+        "method": "1. Clean the fish pieces and pat dry. 2. Heat the mustard oil in a pan. Fry the fish pieces until golden brown and keep aside. 3. In the same pan, add the sliced onion, chopped tomato, green chilies, turmeric powder, red chili powder, cumin powder, coriander powder, garam masala powder, and salt. 4. Saute until the tomatoes are soft and the spices are fragrant. 5. Add enough water to make a gravy and bring to a boil. 6. Add the fried fish pieces and simmer for a few more minutes. 7. Serve hot with rice.",
+        "rating": 3
+    },
+    {
+        "id": "6",
+        "name": "Shorshe Ilish",
+        "img_url": "https://st.depositphotos.com/67903508/58198/i/600/depositphotos_581984752-stock-photo-a-selective-focus-shot-of.jpg",
+        "ingredients": [
+            "4-5 pieces of ilish (hilsa) fish",
+            "2 tablespoons mustard oil",
+            "2 tablespoons mustard paste",
+            "2-3 green chilies, slit lengthwise",
+            "1/2 teaspoon turmeric powder",
+            "1 teaspoon salt"
+        ],
+        "method": "1. Clean the fish pieces and pat dry. 2. Heat the mustard oil in a pan. Fry the fish pieces until golden brown and keep aside. 3. In the same pan, add the mustard paste, green chilies, turmeric powder, and salt. 4. Saute until the mustard paste is fragrant. 5. Add enough water to make a gravy and bring to a boil. 6. Add the fried fish pieces and simmer for a few more minutes. 7. Serve hot with rice.",
+        "rating": 3.5
+    },
+    {
+        "id": "7",
+        "name": "Mishti Doi",
+        "img_url": "https://d36v5spmfzyapc.cloudfront.net/wp-content/uploads/2020/07/mishti-doi-1-848x424.png.webp",
+        "ingredients": [
+            "1 liter full cream milk",
+            "1/2 cup sugar",
+            "1/2 cup curd"
+        ],
+        "method": "1. In a heavy-bottomed pan, boil the milk on medium heat until it reduces to half. 2. Add the sugar and stir well until it dissolves. 3. Remove from heat and let it cool to lukewarm temperature. 4. Add the curd and mix well. 5. Pour the mixture into earthen pots or bowls. 6. Keep the pots in a warm place for 6-8 hours, until the curd sets and becomes thick. 7. Refrigerate for a few hours before serving.",
+        "rating": 4
+    },
+    {
+        "id": "8",
+        "name": "Chum Chum",
+        "img_url": "https://t4.ftcdn.net/jpg/04/03/43/75/360_F_403437596_t9NRcuqHC830Unc6is7iOuxEqY4luS6d.jpg",
+        "ingredients": [
+            "1 liter full cream milk",
+            "1 tablespoon lemon juice",
+            "1/2 cup sugar",
+            "4-5 drops of rose essence",
+            "A few strands of saffron",
+            "4 cups water"
+        ],
+        "method": "1. In a heavy-bottomed pan, boil the milk on medium heat. 2. Add the lemon juice and stir well until the milk curdles. 3. Remove from heat and strain the curdled milk through a muslin cloth. 4. Rinse the chenna (curdled milk) under running water to remove the lemony flavor. 5. Knead the chenna for 10-15 minutes until it becomes smooth and soft. 6. Divide the chenna into small portions and shape them into oval or cylindrical shapes. 7. In a separate pan, mix the sugar, water, rose essence, and saffron. 8. Bring the mixture to a boil and add the chenna balls. 9. Simmer for 10-15 minutes until the chenna balls absorb the syrup and become soft. 10. Let it cool and refrigerate before serving.",
+        "rating": 4.5
+    },
+    {
+        "id": "9",
+        "name": "Gurer Payesh",
+        "img_url": "https://img-global.cpcdn.com/recipes/93f9a67c01c27744/1360x964cq70/nolen-gurer-semai-payesh-recipe-main-photo.webp",
+        "ingredients": [
+            "1 liter full cream milk",
+            "1/2 cup gobindobhog rice",
+            "1/2 cup jaggery",
+            "4-5 green cardamom pods",
+            "1 tablespoon ghee",
+            "A few strands of saffron",
+            "2 cups water"
+        ],
+        "method": "1. Wash the rice and soak it in water for 30 minutes. 2. In a heavy-bottomed pan, boil the milk on medium heat. 3. Drain the rice and add it to the boiling milk. 4. Cook on low heat, stirring occasionally, until the rice is cooked and the milk thickens. 5. In a separate pan, melt the jaggery with water to make a syrup. 6. Add the syrup to the milk-rice mixture and stir well. 7. Add the cardamom pods, saffron, and ghee. 8. Simmer for a few more minutes until the payesh thickens. 9. Serve hot or cold.",
+        "rating": 5
+    },
+    {
+        "id": "10",
+        "name": "Rosogolla",
+        "img_url": "https://i.pinimg.com/564x/34/96/30/3496303460675864977fecafc577db58.jpg",
+        "ingredients": [
+            "1 liter full cream milk",
+            "1 tablespoon lemon juice",
+            "1/2 cup sugar",
+            "4-5 cups water",
+            "A few strands of saffron"
+        ],
+        "method": "1. In a heavy-bottomed pan, boil the milk on medium heat. 2. Add the lemon juice and stir well until the milk curdles. 3. Remove from heat and strain the curdled milk through a muslin cloth. 4. Rinse the chenna (curdled milk) under running water to remove the lemony flavor. 5. Knead the chenna for few minutes until it becomes smooth and soft. 6. Divide the chenna into small portions and shape them into round balls. 7. In a separate pan, mix the sugar, water, and saffron. 8. Bring the mixture to a boil and add the chenna balls. 9. Cover and simmer for 15-20 minutes until the roshogollas double in size and become spongy. 10. Turn off the heat and let it cool. 11. Serve the roshogollas chilled, garnished with a few strands of saffron.",
+        "rating": 4
+    }
+]
