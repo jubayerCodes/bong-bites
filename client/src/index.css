@@ -179,6 +179,11 @@ h6 {
   @apply rounded-none border border border-white bg-transparent hover:bg-[var(--btn-bg-color)] py-4 px-5 text-sm;
 }
 
+.gallery-item .overlay {
+  width: calc(100% - 40px);
+  height: calc(100% - 40px);
+}
+
 .gallery-item:hover .overlay {
   @apply flex;
 }
