@@ -3,46 +3,46 @@
 @tailwind utilities;
 
 :root {
-  --btn-bg-color: #C6A87D;
+  --btn-bg-color: #c6a87d;
   --main-bg-color: #101418;
-  --banner-height: 970px
+  --banner-height: 970px;
 }
 
 * {
-  font-family: 'Josefin Sans', sans-serif;
+  font-family: "Josefin Sans", sans-serif;
 }
 
 .my-container {
-  @apply xl:w-[1200px] mx-auto
+  @apply xl:w-[1200px] mx-auto;
 }
 
 .btn {
-  @apply bg-[var(--btn-bg-color)] hover:bg-[#c6a77dda] duration-300
+  @apply bg-[var(--btn-bg-color)] hover:bg-[#c6a77dda] duration-300;
 }
 
 .header-btn {
-  @apply rounded-none py-4 px-10 text-sm border-[var(--btn-bg-color)] hover:border-[#c6a77dda]
+  @apply rounded-none py-4 px-10 text-sm border-[var(--btn-bg-color)] hover:border-[#c6a77dda];
 }
 
 .menu-item {
-  @apply text-lg hover:text-[var(--btn-bg-color)] duration-300 hover:bg-transparent
+  @apply text-lg hover:text-[var(--btn-bg-color)] duration-300 hover:bg-transparent;
 }
 
-.active-link{
-  @apply hover:text-[var(--btn-bg-color)] text-[var(--btn-bg-color)] bg-transparent
+.active-link {
+  @apply hover:text-[var(--btn-bg-color)] text-[var(--btn-bg-color)] bg-transparent;
 }
 
 h6 {
-  font-family: 'Miniver', cursive;
+  font-family: "Miniver", cursive;
 }
 
 .header {
   border-bottom: 1px solid #c6a77d60;
-  @apply -mb-[97px] px-5 xl:px-0 xl:-mb-[90px] relative z-50 bg-transparent
+  @apply -mb-[97px] px-5 xl:px-0 xl:-mb-[90px] relative z-50 bg-transparent;
 }
 
 .mini-title {
-  @apply uppercase text-[var(--btn-bg-color)] mb-4 xl:mb-6
+  @apply uppercase text-[var(--btn-bg-color)] mb-4 xl:mb-6;
 }
 
 .banner-title {
@@ -51,11 +51,11 @@ h6 {
 }
 
 .section-desc {
-  @apply text-[#ffffffcc] mb-10
+  @apply text-[#ffffffcc] mb-10;
 }
 
 .banner-btn {
-  @apply rounded-none py-4 px-8 text-sm bg-transparent hover:bg-[var(--btn-bg-color)] border-white hover:border-[var(--btn-bg-color)]
+  @apply rounded-none py-4 px-8 text-sm bg-transparent hover:bg-[var(--btn-bg-color)] border-white hover:border-[var(--btn-bg-color)];
 }
 
 .section-title {
@@ -73,12 +73,12 @@ h6 {
 /* Home Banner */
 
 .home-banner {
-  @apply text-center
+  @apply text-center;
 }
 
 .home-banner-container {
   @apply w-full h-[800px] xl:h-[var(--banner-height)] flex justify-center items-center py-[250px] px-5 xl:px-0;
-  background-image: url('./assets/images/hero-bg.jpg');
+  background-image: url("./assets/images/hero-bg.jpg");
   background-position: center center;
   background-size: cover;
 }
@@ -89,36 +89,35 @@ h6 {
 
 .home-banner::after {
   position: absolute;
-  content: '';
+  content: "";
   background: #000;
-  opacity: .7;
+  opacity: 0.7;
   width: 100%;
   top: 0;
   left: 0;
   z-index: 1;
-  @apply h-[795px] xl:h-[var(--banner-height)]
+  @apply h-[795px] xl:h-[var(--banner-height)];
 }
 
 .banner-content {
-  @apply xl:w-[800px]
+  @apply xl:w-[800px];
 }
-
 
 /* Chefs section */
 
 .chefs-container {
-  @apply py-28
+  @apply py-28;
 }
 
 .chefs-cards {
-  @apply xl:pt-20 grid grid-cols-1 xl:grid-cols-3 gap-8 mx-auto
+  @apply xl:pt-20 grid grid-cols-1 xl:grid-cols-3 gap-8 mx-auto;
 }
 
 /* Error page */
 
 .error-section {
   @apply w-full xl:h-[var(--banner-height)] flex justify-center items-center py-[250px] text-center;
-  background-image: url('./assets/images/rest404.jpg');
+  background-image: url("./assets/images/rest404.jpg");
   background-position: center center;
   background-size: cover;
 }
@@ -129,49 +128,57 @@ h6 {
 
 .error-section::after {
   position: absolute;
-  content: '';
+  content: "";
   background: #000;
-  opacity: .7;
+  opacity: 0.7;
   width: 100%;
   top: 0;
   left: 0;
   z-index: 1;
-  @apply xl:h-[var(--banner-height)] h-full
+  @apply xl:h-[var(--banner-height)] h-full;
 }
 
 /* Login */
 
-.login-section, .register-section{
+.login-section,
+.register-section {
   @apply w-full h-[1000px] xl:h-[var(--banner-height)] flex justify-center items-center py-[250px] text-center bg-[var(--main-bg-color)] px-5 xl:px-0;
-  background-image: url('./assets/images/restaurant404.jpg');
+  background-image: url("./assets/images/restaurant404.jpg");
   background-position: center center;
   background-size: cover;
 }
 
-.login-container, .register-container{
-  @apply z-[10]
+.login-container,
+.register-container {
+  @apply z-[10];
 }
 
-.input-field{
-  @apply w-full p-3 bg-transparent outline-none border focus:border-[var(--btn-bg-color)] focus:outline-none duration-200
+.input-field {
+  @apply w-full p-3 bg-transparent outline-none border focus:border-[var(--btn-bg-color)] focus:outline-none duration-200;
 }
 
-.input-field::placeholder{
-  @apply text-white
+.input-field::placeholder {
+  @apply text-white;
 }
 
-.login-section::after, .register-section::after {
+.login-section::after,
+.register-section::after {
   position: absolute;
-  content: '';
+  content: "";
   background: #000;
-  opacity: .7;
+  opacity: 0.7;
   width: 100%;
   top: 0;
   left: 0;
   z-index: 1;
-  @apply xl:h-[var(--banner-height)] h-[1000px]
+  @apply xl:h-[var(--banner-height)] h-[1000px];
 }
 
-.register-btn, .login-btn{
+.register-btn,
+.login-btn {
   @apply rounded-none border border border-white bg-transparent hover:bg-[var(--btn-bg-color)] py-4 px-5 text-sm;
+}
+
+.gallery-item:hover .overlay {
+  @apply flex;
 }

@@ -3,22 +3,22 @@ import HomeBanner from './HomeBanner/HomeBanner';
 import AboutSection from '../../components/AboutSection/AboutSection';
 import ChefSection from './ChefSection/ChefSection';
 import ServicesSection from '../../components/ServicesSection/ServicesSection';
+import Gallery from './Gellery/Gallery';
 
 const Home = () => {
 
     return (
         <main>
-            <section className="home-banner">
-                <HomeBanner></HomeBanner>
-            </section>
+
+            <HomeBanner></HomeBanner>
 
             <AboutSection></AboutSection>
 
-            <section className='chefs-section'>
-                <ChefSection></ChefSection>
-            </section>
-            
+
+            <ChefSection></ChefSection>
+
             <ServicesSection></ServicesSection>
+            <Gallery></Gallery>
         </main>
     );
 };
