@@ -8,7 +8,7 @@ import GalleryItem from './GalleryItem/GalleryItem';
 const Gallery = () => {
     return (
         <section className='gallery'>
-            <div className='grid grid-cols-4 justify-between gap-0 items-center'>
+            <div className='grid grid-cols-2 xl:grid-cols-4 justify-between gap-0 items-center'>
                 <GalleryItem img={gallery1} name={'Chicken Osso'} />
                 <GalleryItem img={gallery2} name={'Chicken File'} />
                 <GalleryItem img={gallery3} name={'Cherry Desserts'} />
