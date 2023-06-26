@@ -4,6 +4,7 @@ import AboutSection from '../../components/AboutSection/AboutSection';
 import ChefSection from './ChefSection/ChefSection';
 import ServicesSection from '../../components/ServicesSection/ServicesSection';
 import Gallery from './Gellery/Gallery';
+import FeaturedMenu from './FeaturedMenu/FeaturedMenu';
 
 const Home = () => {
 
@@ -11,14 +12,11 @@ const Home = () => {
         <main>
 
             <HomeBanner></HomeBanner>
-
             <AboutSection></AboutSection>
-
-
-            <ChefSection></ChefSection>
-
-            <ServicesSection></ServicesSection>
             <Gallery></Gallery>
+            <FeaturedMenu />
+            <ChefSection></ChefSection>
+            <ServicesSection></ServicesSection>
         </main>
     );
 };

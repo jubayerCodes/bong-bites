@@ -1,6 +1,7 @@
 [
     {
         "id": "1",
+        "price": 19.5,
         "name": "Aloo Posto",
         "img_url": "https://i.zoomtventertainment.com/media/iStock-467880619.jpg",
         "ingredients": [
@@ -14,10 +15,13 @@
             "Salt to taste"
         ],
         "method": "1. Dry roast the poppy seeds until light golden in color. Grind to a paste and keep aside. 2. Heat the mustard oil in a pan. Add the cumin seeds and green chilies. 3. Add the potatoes, turmeric powder, red chili powder, and salt. Mix well. 4. Add the poppy seed paste and mix well. 5. Cover and cook on low heat until the potatoes are tender. 6. Serve hot with rice.",
-        "rating": 4.5
+        "rating": 4.5,
+        "featured": true,
+        "category": "Fresh Food"
     },
     {
         "id": "2",
+        "price": 9.5,
         "name": "Cholar Dal",
         "img_url": "https://cdn3.foodviva.com/static-content/food-images/daal-kadhi-recipes/cholar-dal/cholar-dal.jpg",
         "ingredients": [
@@ -34,10 +38,13 @@
             "Salt to taste"
         ],
         "method": "1. Wash the chana dal and soak in water for 30 minutes. 2. Heat the ghee in a pressure cooker. Add the bay leaf, cinnamon stick, cardamom pods, cloves, and cumin seeds. 3. Add the grated ginger and fry for a minute. 4. Add the chana dal, turmeric powder, red chili powder, and salt. Mix well. 5. Add 3 cups of water and pressure cook for 3-4 whistles. 6. Serve hot with rice or chapati.",
-        "rating": 5
+        "rating": 5,
+        "featured": true,
+        "category": "Fresh Food"
     },
     {
         "id": "3",
+        "price": 19.9,
         "name": "Bhapa Ilish",
         "img_url": "https://st4.depositphotos.com/37185906/40797/i/600/depositphotos_407972124-stock-photo-famous-bengali-dish-hilsa-ilish.jpg",
         "ingredients": [
@@ -49,10 +56,13 @@
             "1 teaspoon salt"
         ],
         "method": "1. Clean the fish pieces and pat dry. 2. In a mixing bowl, mix together the mustard oil, mustard paste, green chilies, turmeric powder, and salt. 3. Add the fish pieces to the mixture and coat them well. 4. Place the fish pieces in a steaming dish and cover with a lid. 5. Steam for 10-12 minutes on medium heat. 6. Serve hot with rice.",
-        "rating": 3.5
+        "rating": 3.5,
+        "featured": true,
+        "category": "Fresh Food"
     },
     {
         "id": "4",
+        "price": 89.5,
         "name": "Shukto",
         "img_url": "https://content.instructables.com/FN2/FV18/IDK2K3RL/FN2FV18IDK2K3RL.jpg?auto=webp&frame=1&fit=bounds&md=44b8c3135b902292f716fe8856542c50",
         "ingredients": [
@@ -72,10 +82,13 @@
             "Salt to taste"
         ],
         "method": "1. Heat the mustard oil in a pan. Add the mustard seeds, cumin seeds, fenugreek seeds, and dry red chilies. 2. Add the cubed vegetables, turmeric powder, sugar, and salt. Mix well. 3. Add enough water to cover the vegetables and bring to a boil. 4. Reduce the heat and simmer until the vegetables are cooked. 5. Add the milk and mix well. 6. Simmer for a few more minutes until the gravy thickens. 7. Serve hot with rice.",
-        "rating": 4
+        "rating": 4,
+        "featured": true,
+        "category": "Fresh Food"
     },
     {
         "id": "5",
+        "price": 15.5,
         "name": "Macher Jhol",
         "img_url": "https://t3.ftcdn.net/jpg/04/18/22/46/360_F_418224613_7xsV7ogButkCA4kAOZTgi17rsLSgIvDF.jpg",
         "ingredients": [
@@ -92,10 +105,13 @@
             "Salt to taste"
         ],
         "method": "1. Clean the fish pieces and pat dry. 2. Heat the mustard oil in a pan. Fry the fish pieces until golden brown and keep aside. 3. In the same pan, add the sliced onion, chopped tomato, green chilies, turmeric powder, red chili powder, cumin powder, coriander powder, garam masala powder, and salt. 4. Saute until the tomatoes are soft and the spices are fragrant. 5. Add enough water to make a gravy and bring to a boil. 6. Add the fried fish pieces and simmer for a few more minutes. 7. Serve hot with rice.",
-        "rating": 3
+        "rating": 3,
+        "featured": true,
+        "category": "Fresh Food"
     },
     {
         "id": "6",
+        "price": 19.9,
         "name": "Shorshe Ilish",
         "img_url": "https://st.depositphotos.com/67903508/58198/i/600/depositphotos_581984752-stock-photo-a-selective-focus-shot-of.jpg",
         "ingredients": [
@@ -107,10 +123,13 @@
             "1 teaspoon salt"
         ],
         "method": "1. Clean the fish pieces and pat dry. 2. Heat the mustard oil in a pan. Fry the fish pieces until golden brown and keep aside. 3. In the same pan, add the mustard paste, green chilies, turmeric powder, and salt. 4. Saute until the mustard paste is fragrant. 5. Add enough water to make a gravy and bring to a boil. 6. Add the fried fish pieces and simmer for a few more minutes. 7. Serve hot with rice.",
-        "rating": 3.5
+        "rating": 3.5,
+        "featured": true,
+        "category": "Fresh Food"
     },
     {
         "id": "7",
+        "price": 19,
         "name": "Mishti Doi",
         "img_url": "https://d36v5spmfzyapc.cloudfront.net/wp-content/uploads/2020/07/mishti-doi-1-848x424.png.webp",
         "ingredients": [
@@ -119,10 +138,13 @@
             "1/2 cup curd"
         ],
         "method": "1. In a heavy-bottomed pan, boil the milk on medium heat until it reduces to half. 2. Add the sugar and stir well until it dissolves. 3. Remove from heat and let it cool to lukewarm temperature. 4. Add the curd and mix well. 5. Pour the mixture into earthen pots or bowls. 6. Keep the pots in a warm place for 6-8 hours, until the curd sets and becomes thick. 7. Refrigerate for a few hours before serving.",
-        "rating": 4
+        "rating": 4,
+        "featured": true,
+        "category": "Fresh Food"
     },
     {
         "id": "8",
+        "price": 19.5,
         "name": "Chum Chum",
         "img_url": "https://t4.ftcdn.net/jpg/04/03/43/75/360_F_403437596_t9NRcuqHC830Unc6is7iOuxEqY4luS6d.jpg",
         "ingredients": [
@@ -138,6 +160,7 @@
     },
     {
         "id": "9",
+        "price": 19.5,
         "name": "Gurer Payesh",
         "img_url": "https://img-global.cpcdn.com/recipes/93f9a67c01c27744/1360x964cq70/nolen-gurer-semai-payesh-recipe-main-photo.webp",
         "ingredients": [
@@ -154,6 +177,7 @@
     },
     {
         "id": "10",
+        "price": 39.9,
         "name": "Rosogolla",
         "img_url": "https://i.pinimg.com/564x/34/96/30/3496303460675864977fecafc577db58.jpg",
         "ingredients": [
