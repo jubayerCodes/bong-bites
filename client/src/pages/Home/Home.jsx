@@ -5,6 +5,8 @@ import ChefSection from './ChefSection/ChefSection';
 import ServicesSection from '../../components/ServicesSection/ServicesSection';
 import Gallery from './Gellery/Gallery';
 import FeaturedMenu from './FeaturedMenu/FeaturedMenu';
+import VideoSection from './VideoSection/VideoSection';
+import Testimonial from './Testimonial/Testimonial';
 
 const Home = () => {
 
@@ -16,7 +18,9 @@ const Home = () => {
             <Gallery></Gallery>
             <FeaturedMenu />
             <ChefSection></ChefSection>
+            {/* <Testimonial /> */}
             <ServicesSection></ServicesSection>
+            <VideoSection />
         </main>
     );
 };
