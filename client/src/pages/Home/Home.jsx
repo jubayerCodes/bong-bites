@@ -7,6 +7,8 @@ import Gallery from './Gellery/Gallery';
 import FeaturedMenu from './FeaturedMenu/FeaturedMenu';
 import VideoSection from './VideoSection/VideoSection';
 import Testimonial from './Testimonial/Testimonial';
+import BookATable from '../../components/BookATable/Booking';
+import Booking from '../../components/BookATable/Booking';
 
 const Home = () => {
 
@@ -21,6 +23,7 @@ const Home = () => {
             {/* <Testimonial /> */}
             <ServicesSection></ServicesSection>
             <VideoSection />
+            <Booking />
         </main>
     );
 };
